@@ -1,13 +1,13 @@
-# jclouds4one
+# jclouds4One
 
 ## Description
 
-The jclouds4one driver is an OpenNebula add-on that provides a way to access cloud providers implementing the [Apache Jclouds¨ library](<http://jclouds.incubator.apache.org/>). 
+The jclouds4one driver is an OpenNebula add-on that provides a way to access cloud providers implementing the [Apache Jclouds library](<http://jclouds.incubator.apache.org/>). 
 This work has been co-funded by the [European Space Agency (ESA)](<http://www.esa.int/ESA>). 
 
 ## Development
 
-To contribute bug patches or new features for jclouds4one, you can use the github Pull Request model. It is assumed that code and documentation are contributed under the Apache License 2.0. 
+To contribute bug patches or new features for jclouds4One, you can use the github Pull Request model. It is assumed that code and documentation are contributed under the Apache License 2.0. 
 
 More info:
 * [How to Contribute](http://opennebula.org/software:add-ons#how_to_contribute_to_an_existing_add-on)
@@ -39,8 +39,8 @@ Implements hybrid Cloud computing, to support Cloud bursting, with the ability t
 * Ninefold
 * OpenStack
 
-The Apache Jclouds¨ API open source library is to date providing support for 30 cloud providers & cloud software stacks.
-The jclouds4one development is porting the Apache Jclouds¨ API as a driver for OpenNebula. 
+The Apache Jclouds API open source library is to date providing support for 30 cloud providers & cloud software stacks.
+The jclouds4one development is porting the Apache Jclouds API as a driver for OpenNebula. 
 The updated and complete list can be found here: http://jclouds.incubator.apache.org/documentation/userguide/
 
 ## Limitations
