@@ -15,7 +15,7 @@
 
 	<properties>
 		<site>default</site>
-		<redmine.projectID>jcloudslabs4one</redmine.projectID>
+		<redmine.projectID>jclouds4one</redmine.projectID>
 	</properties>
 	
 	<name>jclouds driver for OpenNebula</name>
