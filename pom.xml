@@ -15,7 +15,7 @@
 
 	<properties>
 		<site>default</site>
-		<redmine.projectID>jclouds4one</redmine.projectID>
+		<redmine.projectID>jcloudslabs4one</redmine.projectID>
 	</properties>
 	
 	<name>jclouds driver for OpenNebula</name>
@@ -32,6 +32,11 @@
 			</resource>
 		</resources>	
 		<plugins>
+			<plugin>
+                                <groupId>org.nuiton.jredmine</groupId>
+                                <artifactId>jredmine-maven-plugin</artifactId>
+                                <inherited>false</inherited>
+                        </plugin>
 			<plugin>
 				<groupId>org.codehaus.mojo</groupId>
 				<artifactId>rpm-maven-plugin</artifactId>
