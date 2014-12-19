@@ -10,7 +10,7 @@
 
 	<artifactId>jclouds4one</artifactId>
 	<groupId>com.terradue</groupId>
-	<version>0.1.1-SNAPSHOT</version>
+	<version>0.1.1</version>
 	<packaging>rpm</packaging>
 
 	<properties>
